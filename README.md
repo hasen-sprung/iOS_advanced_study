@@ -6,6 +6,7 @@ powered by [JeaSungLEE/iOSInterviewquestions](https://github.com/JeaSungLEE/iOSI
 - 일요일 키워드 각각 3개 선택
 - 화, 목, 토 오전 9시 회의 때 발표, 상대방이 완전히 이해할 수 있을 때까지, 만족을 못하면 다쉬!!
 - 해당 공부는 개인 시간 활용할 것 (평일 6시 이후, 일)
+- 파고들면서 공부하기 : 상대방이 설명할 때, 의문점등을 계속 제시해주면서 더 깊이 공부할 수 있도록 질문해주기.
 
 ## iOS
 - [ ] Bounds 와 Frame 의 차이점을 설명하시오. - junhpark
